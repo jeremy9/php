@@ -1,0 +1,19 @@
+Comparing files 201712LIST.txt and 201802LIST.TXT
+***** 201712LIST.txt
+   10:  Treated Like a Guest
+   11:  Please rate your satisfaction with the time it took to complete your visit and the ease of using the station, where 0 = “Very d
+   12:  issatisfied” and 10 = “Highly satisfied”:
+   13:  Please rate your satisfaction with how well everything worked, where 0 = “Very dissatisfied” and 10 = “Highly satisfied”:
+   14:  Please rate your satisfaction with the overall cleanliness and lighting of the site, where 0 = “Very dissatisfied” and 10 = “Hi
+   15:  ghly satisfied”:
+   16:  
+***** 201802LIST.TXT
+   10:  Treated Like a Guest
+   11:  Please rate your satisfaction with the time it took to complete your visit and the ease of using the station, where 1 = “Highly
+   12:   Dissatisfied ” and 5 = “Highly satisfied”:
+   13:  Please rate your satisfaction with how well everything worked, where 1 = “Highly Dissatisfied ” and 5 = “Highly satisfied”:
+   14:  Please rate your satisfaction with the overall cleanliness and lighting of the site, where 1 = “Highly Dissatisfied ” and 5 = “
+   15:  Highly satisfied”:
+   16:  
+*****
+
